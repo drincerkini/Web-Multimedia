@@ -1,4 +1,5 @@
 <template>
+  <LoadSpinner />
     <!-- Login 8 - Bootstrap Brain Component -->
 <section class="bg-light p-3 p-md-4 p-xl-5">
   <div class="container">
@@ -84,3 +85,14 @@
   </div>
 </section>
 </template>
+
+<script>
+import LoadSpinner from '@/components/LoadSpinner.vue';
+
+export default {
+  components: {
+    LoadSpinner
+  }
+}
+
+</script>

@@ -1,4 +1,5 @@
 <template>
+    <LoadSpinner />
     <ServiceBanner />
     <br />
     <OurRooms />
@@ -7,11 +8,13 @@
 <script>
 import OurRooms from '@/components/OurRooms.vue';
 import ServiceBanner from '@/components/ServiceBanner.vue';
+import LoadSpinner from '@/components/LoadSpinner.vue';
 
 export default {
     components: {
         OurRooms,
-        ServiceBanner
+        ServiceBanner,
+        LoadSpinner
     }
 }
 
