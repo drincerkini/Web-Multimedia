@@ -7,7 +7,7 @@
         <div class="row align-items-center justify-content-center">
           <div class="col-12 col-md-10 col-xl-8 col-xxl-7">
             <h2 class="h5 mb-4 text-white text-uppercase">Our Services & Expertise</h2>
-            <h3 class="display-4 text-white mb-5">We are a design agency studio delivering custom creative & unique websites.</h3>
+            <h3 class="display-4 text-white mb-5">Welcome to our exquisite hotel, ensuring a truly enchanting and unforgettable stay for our esteemed guests.</h3>
             <a href="#!" class="btn btn-light btn-3xl rounded mb-0 text-nowrap">Get Started</a>
           </div>
         </div>

@@ -9,7 +9,9 @@
       <div class="col-12 col-lg-7">
         <h2 class="h1 mb-3">Who Are We?</h2>
         <p class="lead fs-4 text-secondary mb-3">We are pleased to invite you to Hotel DT. We care for a pleasant atmosphere during your stay and professional service. We provide comfortable rest and exceptionally tasty food.</p>
-        <p class="mb-5">Nullam gravida orci ac luctus molestie. Fusce finibus congue erat, non aliquam magna tincidunt at. Aenean lacinia arcu ex, sed pharetra nibh porta a. Curabitur vel consequat nibh, ac interdum nisl. Nunc pulvinar nec massa vitae sollicitudin.</p>
+        <p class="mb-5">The DT hotel provides a high quality service for all guests. We have got attentive and well qualified staff, operative check-in / check-out, taxi service, daily housekeeping and change of linen, towels and other services for guests.
+
+</p>
         <div class="row gy-5 gy-md-0 gx-xxl-5">
           <div class="col-12 col-md-6">
             <div class="d-flex">
@@ -19,8 +21,8 @@
                 </svg>
               </div>
               <div>
-                <h4 class="mb-3">Versatile Brand</h4>
-                <p class="text-secondary mb-0">We are crafting a digital method that subsists life across all mediums.</p>
+                <h4 class="mb-3">The high quality service</h4>
+                <p class="text-secondary mb-0">The hotel DT provides a high quality service for all guests.</p>
               </div>
             </div>
           </div>
@@ -32,8 +34,8 @@
                 </svg>
               </div>
               <div>
-                <h4 class="mb-3">Digital Agency</h4>
-                <p class="text-secondary mb-0">We believe in innovation by integrating primary with elaborate ideas.</p>
+                <h4 class="mb-3">Special offers </h4>
+                <p class="text-secondary mb-0">The hotel DT has a system of discounts for corporate clients, tourist groups and regular customers, who prefer early booking.</p>
               </div>
             </div>
           </div>
