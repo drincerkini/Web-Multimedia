@@ -4,11 +4,11 @@
   <div class="container">
     <div class="row gy-5 gy-lg-0 gx-lg-6 gx-xxl-8 align-items-lg-center">
       <div class="col-12 col-lg-5">
-        <img class="img-fluid rounded" loading="lazy" src="../assets/hotel-1.png" alt="">
+        <img class="img-fluid rounded" loading="lazy" src="../assets/HOTEL1.jpeg" alt="">
       </div>
       <div class="col-12 col-lg-7">
         <h2 class="h1 mb-3">Who Are We?</h2>
-        <p class="lead fs-4 text-secondary mb-3">We help people to build incredible brands and superior products. Our perspective is to furnish outstanding captivating services.</p>
+        <p class="lead fs-4 text-secondary mb-3">We are pleased to invite you to Hotel DT. We care for a pleasant atmosphere during your stay and professional service. We provide comfortable rest and exceptionally tasty food.</p>
         <p class="mb-5">Nullam gravida orci ac luctus molestie. Fusce finibus congue erat, non aliquam magna tincidunt at. Aenean lacinia arcu ex, sed pharetra nibh porta a. Curabitur vel consequat nibh, ac interdum nisl. Nunc pulvinar nec massa vitae sollicitudin.</p>
         <div class="row gy-5 gy-md-0 gx-xxl-5">
           <div class="col-12 col-md-6">

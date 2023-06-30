@@ -4,11 +4,13 @@
     <div class="container">
       <div class="row gy-5 gy-lg-0 gx-lg-6 gx-xxl-8 align-items-lg-center">
         <div class="col-12 col-lg-6">
-          <img class="img-fluid rounded" loading="lazy" src="../assets/hotel-1.png" alt="">
+          <img class="img-fluid rounded" loading="lazy" src="../assets/hoteel4.jpeg" alt="">
         </div>
         <div class="col-12 col-lg-6">
           <h2 class="h1 mb-3">Why Choose Us?</h2>
-          <p class="lead fs-4 text-secondaryX mb-5">With years of experience and deep industry knowledge, we have a proven track record of success and are constantly pushing ourselves to stay ahead of the curve.</p>
+          <p class="lead fs-4 text-secondaryX mb-5">DT HOTEL is a great place for rest and business. Along with the closest surroundings it is a frequently visited, interesting tourist and sightseeing region. Tourists are attracted by wonderful natural conditions, large forest areas and numerous picturesque lakes. Investors are attracted by the dynamically developing part of the city's industry.
+
+.</p>
           <div class="d-flex align-items-center mb-3">
             <div class="me-3 text-primary">
               <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" fill="currentColor" class="bi bi-check-circle-fill" viewBox="0 0 16 16">
@@ -39,7 +41,7 @@
               <p class="fs-5 m-0">Let's hire us to reach your objectives.</p>
             </div>
           </div>
-          <button type="button" class="btn btn-outline-primary btn-2xl rounded-pill px-4 gap-3">Connect Now</button>
+          <button type="button" class="btn btn-outline-primary btn-2xl rounded-pill px-4 gap-3">BOOK NOW</button>
         </div>
       </div>
     </div>

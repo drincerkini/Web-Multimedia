@@ -7,7 +7,7 @@
         <div class="card border-light-subtle shadow-sm">
           <div class="row g-0">
             <div class="col-12 col-md-6">
-              <img class="img-fluid rounded-start w-100 h-100 object-fit-cover" loading="lazy" src="../assets/hotel-1.png" alt="">
+              <img class="img-fluid rounded-start w-100 h-100 object-fit-cover" loading="lazy" src="../assets/hoteel5.jpeg" alt="">
             </div>
             <div class="col-12 col-md-6 d-flex align-items-center justify-content-center">
               <div class="col-12 col-lg-11 col-xl-10">
@@ -17,7 +17,7 @@
                       <div class="mb-5">
                         <div class="text-center mb-4">
                           <a href="#!">
-                            <img src="../assets/hotel-1.png" alt="" width="175" height="57">
+                            <img src="../assets/logo.png" alt="" width="175" height="57">
                           </a>
                         </div>
                         <h4 class="text-center">Welcome back you've been missed!</h4>

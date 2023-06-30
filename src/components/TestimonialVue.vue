@@ -17,7 +17,7 @@
         <div class="card border-0 border-bottom border-primary shadow-sm">
           <div class="card-body p-4 p-xxl-5">
             <figure>
-              <img class="img-fluid rounded rounded-circle mb-4 border border-5" loading="lazy" src="../assets/logo.png" alt="">
+              <img class="img-fluid rounded rounded-circle mb-4 border border-5" loading="lazy" src="../assets/pppl1.jpg" alt="">
               <figcaption>
                 <div class="bsb-ratings text-warning mb-3" data-bsb-star="5" data-bsb-star-off="0"></div>
                 <blockquote class="bsb-blockquote-icon mb-4">Nam ultricies, ex lacinia dapibus faucibus, sapien ipsum euismod massa, at aliquet erat turpis quis diam. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</blockquote>
@@ -32,7 +32,7 @@
         <div class="card border-0 border-bottom border-primary shadow-sm">
           <div class="card-body p-4 p-xxl-5">
             <figure>
-              <img class="img-fluid rounded rounded-circle mb-4 border border-5" loading="lazy" src="../assets/logo.png" alt="">
+              <img class="img-fluid rounded rounded-circle mb-4 border border-5" loading="lazy" src="../assets/ppl3.jpeg" alt="">
               <figcaption>
                 <div class="bsb-ratings text-warning mb-3" data-bsb-star="4" data-bsb-star-off="1"></div>
                 <blockquote class="bsb-blockquote-icon mb-4">Nam ultricies, ex lacinia dapibus faucibus, sapien ipsum euismod massa, at aliquet erat turpis quis diam. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</blockquote>
@@ -47,7 +47,7 @@
         <div class="card border-0 border-bottom border-primary shadow-sm">
           <div class="card-body p-4 p-xxl-5">
             <figure>
-              <img class="img-fluid rounded rounded-circle mb-4 border border-5" loading="lazy" src="../assets/logo.png" alt="">
+              <img class="img-fluid rounded rounded-circle mb-4 border border-5" loading="lazy" src="../assets/ppl2.jpeg" alt="">
               <figcaption>
                 <div class="bsb-ratings text-warning mb-3" data-bsb-star="5" data-bsb-star-off="0"></div>
                 <blockquote class="bsb-blockquote-icon mb-4">Nam ultricies, ex lacinia dapibus faucibus, sapien ipsum euismod massa, at aliquet erat turpis quis diam. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</blockquote>
