@@ -18,7 +18,7 @@
               </svg>
             </div>
             <div>
-              <p class="fs-5 m-0">Our evolution procedure is super intelligent.</p>
+              <p class="fs-5 m-0">We offer elaxation and rejuvenation for mind, body, and soul.</p>
             </div>
           </div>
           <div class="d-flex align-items-center mb-3">
@@ -38,7 +38,7 @@
               </svg>
             </div>
             <div>
-              <p class="fs-5 m-0">Let's hire us to reach your objectives.</p>
+              <p class="fs-5 m-0">Experience comfort in our elegantly designed rooms and suites.</p>
             </div>
           </div>
           <button type="button" class="btn btn-outline-primary btn-2xl rounded-pill px-4 gap-3">BOOK NOW</button>

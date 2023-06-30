@@ -52,12 +52,14 @@
 
         <div class="col-lg-6 col-md-6 col-12 order-1 order-md-2">
             <div class="section-title ml-lg-5">
-                <h5 class="text-custom font-weight-normal mb-3">About Us</h5>
+                <h5 class="text-custom font-weight-normal mb-3">About DT Hotel</h5>
                 <h4 class="title mb-4">
                     Our mission is to <br />
-                    make your life easier.
+                    make your dream vacation a reality.
                 </h4>
-                <p class="text-muted mb-0">Lorem, ipsum dolor sit amet consectetur adipisicing elit quod debitis praesentium pariatur temporibus ipsa, cum quidem obcaecati sunt?</p>
+                <p class="text-muted mb-0">DT HOTEL is a great place for rest and business. Along with the closest surroundings it is a frequently visited, interesting tourist and sightseeing region. Tourists are attracted by wonderful natural conditions, large forest areas and numerous picturesque lakes. Investors are attracted by the dynamically developing part of the city's industry.
+
+</p>
 
                 <div class="row">
                     <div class="col-lg-6 mt-4 pt-2">
