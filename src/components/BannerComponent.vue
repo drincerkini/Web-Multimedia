@@ -1,6 +1,6 @@
 <template>
     <!-- Hero 4 - Bootstrap Brain Component -->
-<section class="" data-bs-theme="dark" style="background-color: #efca87;">
+<section class="" data-bs-theme="dark" style="background-color: #84aba8;">
   <div class="container-fluid overflow-hidden">
     <div class="row">
       <div class="col-12 col-md-6 order-1 order-md-0 align-self-md-end">

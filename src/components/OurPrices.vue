@@ -6,7 +6,7 @@
       <div class="col-12 col-md-10 col-lg-8 col-xl-7 col-xxl-6 text-center">
         <h3 class="fs-6 text-secondary mb-2 text-uppercase">Our Pricing</h3>
         <h2 class="display-5 mb-4 mb-md-5">We offer great pricing offers for everyone.</h2>
-        <hr class="w-50 mx-auto mb-0 mb-lg-5 text-secondary">
+        <hr class="w-50 mx-auto mb-0 mb-lg-5 text-secondary" style="background-color: #84aba8;" >
       </div>
     </div>
   </div>

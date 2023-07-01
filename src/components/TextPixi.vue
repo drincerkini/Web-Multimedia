@@ -15,15 +15,15 @@
       });
 
       const text = new PIXI.Text('LET US INTRODUCE YOU, THE BEST!', {
-        fontFamily: 'Arial',
+        fontFamily: 'Times New Roman',
         fontSize: 48,
-        fill: 'brown',
+        fill: 'green',
       });
       text.anchor.set(0.5);
       text.position.set(app.screen.width / 2, app.screen.height / 2);
       app.stage.addChild(text);
 
-      const speed = 2;
+      const speed = 3;
 
       app.ticker.add(() => {
         text.position.x += speed;
