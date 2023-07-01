@@ -57,7 +57,7 @@
                 <span><strong>Weekly</strong> Offers</span>
               </li>
             </ul>
-            <a href="#!" class="btn btn-xl btn-primary rounded-pill">Choose Plan</a>
+            <a href="#!" class="btn btn-xl btn-primary rounded-pill">Book Now</a>
           </div>
         </div>
       </div>
@@ -105,7 +105,7 @@
                 <span><strong>Weekly</strong> Offers</span>
               </li>
             </ul>
-            <a href="#!" class="btn btn-xl btn-primary rounded-pill">Choose Plan</a>
+            <a href="#!" class="btn btn-xl btn-primary rounded-pill">Book Now</a>
           </div>
         </div>
       </div>
@@ -153,7 +153,7 @@
                 <span><strong>Weekly</strong> Offers</span>
               </li>
             </ul>
-            <a href="#!" class="btn btn-xl btn-primary rounded-pill">Choose Plan</a>
+            <a href="#!" class="btn btn-xl btn-primary rounded-pill">Book Now</a>
           </div>
         </div>
       </div>
