@@ -8,8 +8,8 @@
 </template>
 
 <script>
-import FooterComponent from '@/components/FooterComponent.vue';
-import HeaderComponentVue from './components/HeaderComponent.vue';
+import FooterComponent from '@/components/footer/FooterComponent.vue';
+import HeaderComponentVue from './components/header/HeaderComponent.vue';
 
 export default {
   components: {

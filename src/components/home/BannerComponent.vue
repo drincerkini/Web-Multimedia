@@ -15,7 +15,7 @@
         </div>
       </div>
       <div class="col-12 col-md-6 p-0">
-        <img class="img-fluid w-100 h-100 object-fit-cover" loading="lazy" src="../assets/hotel7.jpeg" alt="">
+        <img class="img-fluid w-100 h-100 object-fit-cover" loading="lazy" src="../../assets/hotel7.jpeg" alt="">
       </div>
     </div>
   </div>

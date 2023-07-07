@@ -1,21 +1,28 @@
 <template>
+  <!-- Load spinner -->
   <LoadSpinner />
+
+  <!-- About page content -->
   <TextPixiVue />
+
   <WhyChooseUsVue />
   <br />
+
   <AboutBanner />
   <br />
+
   <WhoAreWeVue />
   <br />
+
   <AboutOurRoomSectionVue />
 </template>
 
 <script>
-import WhyChooseUsVue from '@/components/WhyChooseUs.vue';
-import WhoAreWeVue from '@/components/WhoAreWe.vue';
-import AboutBanner from '@/components/AboutBanner.vue';
-import AboutOurRoomSectionVue from '@/components/AboutOurRoomSection.vue';
-import TextPixiVue from '@/components/TextPixi.vue';
+import WhyChooseUsVue from '@/components/about/WhyChooseUs.vue';
+import WhoAreWeVue from '@/components/about/WhoAreWe.vue';
+import AboutBanner from '@/components/about/AboutBanner.vue';
+import AboutOurRoomSectionVue from '@/components/about/AboutOurRoomSection.vue';
+import TextPixiVue from '@/components/about/TextPixi.vue';
 import LoadSpinner from '@/components/LoadSpinner.vue';
 
 export default {

@@ -6,8 +6,8 @@
 </template>
 
 <script>
-import OurRooms from '@/components/OurRooms.vue';
-import ServiceBanner from '@/components/ServiceBanner.vue';
+import OurRooms from '@/components/service/OurRooms.vue';
+import ServiceBanner from '@/components/service/ServiceBanner.vue';
 import LoadSpinner from '@/components/LoadSpinner.vue';
 
 export default {

@@ -4,7 +4,7 @@
     <div class="container">
       <div class="row gy-5 gy-lg-0 gx-lg-6 gx-xxl-8 align-items-lg-center">
         <div class="col-12 col-lg-6">
-          <img class="img-fluid rounded" loading="lazy" src="../assets/hoteel4.jpeg" alt="">
+          <img class="img-fluid rounded" loading="lazy" src="../../assets/hoteel4.jpeg" alt="">
         </div>
         <div class="col-12 col-lg-6">
           <h2 class="h1 mb-3">Why Choose Us?</h2>
