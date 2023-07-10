@@ -8,7 +8,7 @@
                     <div class="row">
                         <div class="col-lg-12 col-md-12 mt-4 pt-2">
                             <div class="card work-desk rounded border-0 shadow-lg overflow-hidden">
-                                <img src="https://cdn.pixabay.com/photo/2017/01/07/17/48/interior-1961070_1280.jpg" class="img-fluid" alt="Image" />
+                                <img src="../../assets/hotel-gif-3.gif" class="img-fluid" alt="Image" />
                                 <div class="img-overlay bg-dark"></div>
                             </div>
                         </div>
@@ -28,7 +28,7 @@
                     <div class="row">
                         <div class="col-lg-12 col-md-12">
                             <div class="card work-desk rounded border-0 shadow-lg overflow-hidden">
-                                <img src="https://cdn.pixabay.com/photo/2014/07/10/17/17/bedroom-389254_1280.jpg" class="img-fluid" alt="Image" />
+                                <img src="../../assets/hotel-gif-2.gif" class="img-fluid" alt="Image" />
                                 <div class="img-overlay bg-dark"></div>
                             </div>
                         </div>
@@ -36,7 +36,7 @@
 
                         <div class="col-lg-12 col-md-12 mt-4 pt-2">
                             <div class="card work-desk rounded border-0 shadow-lg overflow-hidden">
-                                <img src="https://cdn.pixabay.com/photo/2014/12/27/14/37/living-room-581073_1280.jpg" class="img-fluid" alt="Image" />
+                                <img src="../../assets/hotel-gif-1.gif" class="img-fluid" alt="Image" />
                                 <div class="img-overlay bg-dark"></div>
                             </div>
                         </div>

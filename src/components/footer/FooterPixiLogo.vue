@@ -12,7 +12,7 @@
         view: this.$refs.pixiContainer,
         width: 300, 
         height: 300, 
-        backgroundColor: 0xFFFFFF,
+        backgroundColor: 0xf8f9fa,
       });
 
       const sprite = PIXI.Sprite.from(

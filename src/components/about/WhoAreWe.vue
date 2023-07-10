@@ -7,11 +7,9 @@
         <img class="img-fluid rounded" loading="lazy" src="../../assets/HOTEL1.jpeg" alt="">
       </div>
       <div class="col-12 col-lg-7">
-        <h2 class="h1 mb-3">Who Are We?</h2>
+        <WhoAreWePixi />
         <p class="lead fs-4 text-secondary mb-3">We are pleased to invite you to Hotel DT. We care for a pleasant atmosphere during your stay and professional service. We provide comfortable rest and exceptionally tasty food.</p>
-        <p class="mb-5">The DT hotel provides a high quality service for all guests. We have got attentive and well qualified staff, operative check-in / check-out, taxi service, daily housekeeping and change of linen, towels and other services for guests.
-
-</p>
+        <p class="mb-5">The DT hotel provides a high quality service for all guests. We have got attentive and well qualified staff, operative check-in / check-out, taxi service, daily housekeeping and change of linen, towels and other services for guests.</p>
         <div class="row gy-5 gy-md-0 gx-xxl-5">
           <div class="col-12 col-md-6">
             <div class="d-flex">
@@ -45,3 +43,14 @@
   </div>
 </section>
 </template>
+
+<script>
+import WhoAreWePixi from './WhoAreWePixi.vue';
+
+export default {
+  components: {
+    WhoAreWePixi
+  }
+}
+
+</script>

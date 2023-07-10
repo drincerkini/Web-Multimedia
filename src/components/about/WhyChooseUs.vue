@@ -7,10 +7,8 @@
           <img class="img-fluid rounded" loading="lazy" src="../../assets/hoteel4.jpeg" alt="">
         </div>
         <div class="col-12 col-lg-6">
-          <h2 class="h1 mb-3">Why Choose Us?</h2>
-          <p class="lead fs-4 text-secondaryX mb-5">DT HOTEL is a great place for rest and business. Along with the closest surroundings it is a frequently visited, interesting tourist and sightseeing region. Tourists are attracted by wonderful natural conditions, large forest areas and numerous picturesque lakes. Investors are attracted by the dynamically developing part of the city's industry.
-
-.</p>
+          <WhyChooseUsPixi />
+          <p class="lead fs-4 text-secondaryX mb-5">DT HOTEL is a great place for rest and business. Along with the closest surroundings it is a frequently visited, interesting tourist and sightseeing region. Tourists are attracted by wonderful natural conditions, large forest areas and numerous picturesque lakes. Investors are attracted by the dynamically developing part of the city's industry..</p>
           <div class="d-flex align-items-center mb-3">
             <div class="me-3 text-primary">
               <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" fill="currentColor" class="bi bi-check-circle-fill" viewBox="0 0 16 16">
@@ -47,4 +45,15 @@
     </div>
   </section>
   </template>
+
+<script>
+import WhyChooseUsPixi from './WhyChooseUsPixi.vue';
+
+export default {
+  components: {
+    WhyChooseUsPixi
+  }
+}
+
+</script>
   

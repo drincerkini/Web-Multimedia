@@ -2,8 +2,11 @@
   <!-- Load spinner -->
   <LoadSpinner />
 
+  <!-- Slider  -->
+  <AboutSlider />
+
   <!-- About page content -->
-  <TextPixiVue />
+
 
   <WhyChooseUsVue />
   <br />
@@ -18,11 +21,11 @@
 </template>
 
 <script>
+import AboutSlider from '@/components/about/AboutSlider.vue';
 import WhyChooseUsVue from '@/components/about/WhyChooseUs.vue';
 import WhoAreWeVue from '@/components/about/WhoAreWe.vue';
 import AboutBanner from '@/components/about/AboutBanner.vue';
 import AboutOurRoomSectionVue from '@/components/about/AboutOurRoomSection.vue';
-import TextPixiVue from '@/components/about/TextPixi.vue';
 import LoadSpinner from '@/components/LoadSpinner.vue';
 
 export default {
@@ -31,8 +34,8 @@ export default {
     WhoAreWeVue,
     AboutBanner,
     AboutOurRoomSectionVue,
-    TextPixiVue,
-    LoadSpinner
+    LoadSpinner,
+    AboutSlider
   }
 }
 
