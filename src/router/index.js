@@ -1,5 +1,7 @@
 import { createRouter, createWebHashHistory } from "vue-router";
 
+// WE used Lazy loading when importing pages
+
 const routes = [
   {
     path: "/",

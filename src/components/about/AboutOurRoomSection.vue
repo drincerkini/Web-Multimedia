@@ -57,34 +57,27 @@
                     Our mission is to <br />
                     make your dream vacation a reality.
                 </h4>
-                <p class="text-muted mb-0">DT HOTEL is a great place for rest and business. Along with the closest surroundings it is a frequently visited, interesting tourist and sightseeing region. Tourists are attracted by wonderful natural conditions, large forest areas and numerous picturesque lakes. Investors are attracted by the dynamically developing part of the city's industry.
-
-</p>
-
+                <p class="text-muted mb-0">DT HOTEL is a great place for rest and business. Along with the closest surroundings it is a frequently visited, interesting tourist and sightseeing region. Tourists are attracted by wonderful natural conditions, large forest areas and numerous picturesque lakes. Investors are attracted by the dynamically developing part of the city's industry.</p>
                 <div class="row">
                     <div class="col-lg-6 mt-4 pt-2">
-                        <div class="media align-items-center rounded shadow p-3">
-                            <i class="fa fa-play h4 mb-0 text-custom"></i>
-                            <h6 class="ml-3 mb-0"><a href="javascript:void(0)" class="text-dark">Responsive</a></h6>
+                            <video width="320px" height="240px" controls>
+                                <source src="../../assets/video-1.mp4" type="video/mp4" />
+                            </video>
                         </div>
+                    <div class="col-lg-6 mt-4 pt-2">
+                        <video width="320px" height="240px" controls>
+                            <source src="../../assets/video-2.mp4" type="video/mp4" />
+                        </video>
                     </div>
                     <div class="col-lg-6 mt-4 pt-2">
-                        <div class="media align-items-center rounded shadow p-3">
-                            <i class="fa fa-file-download h4 mb-0 text-custom"></i>
-                            <h6 class="ml-3 mb-0"><a href="javascript:void(0)" class="text-dark">Free Download</a></h6>
-                        </div>
+                        <video width="320px" height="240px" controls>
+                            <source src="../../assets/video-2.mp4" type="video/mp4" />
+                        </video>
                     </div>
                     <div class="col-lg-6 mt-4 pt-2">
-                        <div class="media align-items-center rounded shadow p-3">
-                            <i class="fa fa-user h4 mb-0 text-custom"></i>
-                            <h6 class="ml-3 mb-0"><a href="javascript:void(0)" class="text-dark">Support</a></h6>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 mt-4 pt-2">
-                        <div class="media align-items-center rounded shadow p-3">
-                            <i class="fa fa-image h4 mb-0 text-custom"></i>
-                            <h6 class="ml-3 mb-0"><a href="javascript:void(0)" class="text-dark">Development</a></h6>
-                        </div>
+                        <video width="320px" height="240px" controls>
+                            <source src="../../assets/video-1.mp4" type="video/mp4" />
+                        </video>
                     </div>
                 </div>
             </div>

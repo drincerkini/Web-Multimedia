@@ -1,4 +1,6 @@
 <template>
+
+  <LoadSpinner />
     <!-- Contact 4 - Bootstrap Brain Component -->
 <section class=" py-5 py-xl-8">
   <div class="container mb-5 mb-md-6">
@@ -69,3 +71,14 @@
   </div>
 </section>
 </template>
+
+<script>
+import LoadSpinner from '@/components/LoadSpinner.vue';
+
+export default {
+  components: {
+    LoadSpinner
+  }
+}
+
+</script>
