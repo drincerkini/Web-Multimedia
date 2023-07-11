@@ -9,7 +9,10 @@
   <OurPrices />
   <br />
   <br />
-<TestimonialVue />
+  <HomeSlider />
+  <br />
+  <br />
+  <TestimonialVue />  
 
 </template>
 
@@ -19,6 +22,7 @@ import LandingPage from '@/components/home/LandingPage.vue';
 import BannerComponent from '@/components/home/BannerComponent.vue';
 import OurPrices from '@/components/home/OurPrices.vue';
 import LoadSpinner from '@/components/LoadSpinner.vue';
+import HomeSlider from '@/components/home/HomeSlider.vue';
 
 export default {
   components: {
@@ -26,7 +30,8 @@ export default {
     LandingPage,
     BannerComponent,
     OurPrices,
-    LoadSpinner
+    LoadSpinner,
+    HomeSlider
   }
 }
 
