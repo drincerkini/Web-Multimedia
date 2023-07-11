@@ -18,7 +18,7 @@
     <div class="col-12 col-md-4 bsb-project-2-item" v-for="element in services" :key="element.title">
       <figure class="rounded rounded-3 overflow-hidden bsb-hover-overlay m-0">
         <a href="#!">
-          <img class="img-fluid bsb-scale-up bsb-hover-scale" loading="lazy" :src=element.image alt="">
+          <img class="img-fluid bsb-scale-up bsb-hover-scale" loading="lazy" :src=element.image alt="" />
         </a>
         <figcaption>
           <h3 class="text-white bsb-hover-fadeInLeft">{{ element.title }}</h3>
@@ -28,6 +28,11 @@
     </div>
   </div>
 </div>
+
+  <audio controls :autoplay=true>
+    <source src="../../assets/beach-sound.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+  </audio>
 </section>
 </template>
 
