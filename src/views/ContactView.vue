@@ -16,7 +16,7 @@
   <div class="container">
     <div class="row gy-4 gy-lg-0 gx-lg-6 gx-xxl-8 align-items-xl-center">
       <div class="col-12 col-lg-6">
-        <img class="img-fluid rounded" loading="lazy" src="../assets/hotel-1.png" alt="">
+        <img class="img-fluid rounded" loading="lazy" src="../assets/hotel7.jpeg" alt="">
       </div>
       <div class="col-12 col-lg-6">
         <div class="bg-white border rounded shadow-sm overflow-hidden">
